@@ -1,3 +1,1 @@
-# OS
-# Algoritms
-# Algoritms
+#Labs
